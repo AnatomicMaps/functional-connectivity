@@ -8122,6 +8122,12 @@
             "Organ": "Kidney",
             "Model" : "UBERON:0004203",
             "Label": "Cortical collecting duct"
+        },
+        {
+            "FTU Name": "Parathyroid gland",
+            "Organ": "Parathyroid",
+            "Model" : "UBERON:0001132",
+            "Label": "parathyroid gland"
         }
     ],
     "Neural": [
