@@ -1460,13 +1460,6 @@
         {
             "FTU Name": "Cortical collecting duct",
             "Organ": "Kidney",
-            "Models": "",
-            "Label": "",
-            "Connected": "YES"
-        },
-        {
-            "FTU Name": "Cortical collecting ducts",
-            "Organ": "Kidney",
             "Model": "UBERON:0004203",
             "Label": "Cortical collecting duct"
         },
@@ -4485,16 +4478,10 @@
             "Unnamed: 9": ""
         },
         {
-            "FTU Name": "Juxtaglomerular apparatus",
-            "Organ": "Kidney",
-            "Model": "UBERON:0002303",
-            "Label": "Juxtaglomerular apparatus"
-        },
-        {
             "FTU Name": "Juxtaglomerular Apparatus",
             "Organ": "Kidney",
-            "Models": "",
-            "Label": "",
+            "Model": "UBERON:0002303",
+            "Label": "Juxtaglomerular apparatus",
             "Connected": "YES"
         },
         {
@@ -16660,8 +16647,8 @@
         {
             "Organ Name": "Liver",
             "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002107",
+            "Label": "liver"
         },
         {
             "Organ Name": "Lower airways",
@@ -16672,8 +16659,8 @@
         {
             "Organ Name": "Lower GI tract",
             "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0004907",
+            "Label": "lower digestive tract"
         },
         {
             "Organ Name": "Lower limb - gluteal",
@@ -16696,8 +16683,8 @@
         {
             "Organ Name": "Lymph nodes & lymphatic vessels",
             "Systems": "IMMUNE SYSTEM",
-            "Models": "ILX:0001473",
-            "Label": ""
+            "Models": "UBERON:0001473",
+            "Label": "lymphatic vessels"
         },
         {
             "Organ Name": "Mastication",
@@ -17790,8 +17777,9 @@
         },
         {
             "Vessel Name": "Hepatic portal",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0001639",
+            "Label": "hepatic portal vein",
+            "Checked by": "YM"
         },
         {
             "Vessel Name": "Hepatic proper",
